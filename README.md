@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Maxim and I love programming.
+### Hi there 👋 When bad things happen, exceptions get thrown. When exceptions get thrown, people die.
 
 <!--
 **Maflend/Maflend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
