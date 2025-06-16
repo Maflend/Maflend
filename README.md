@@ -1,4 +1,4 @@
-[![Fancy Profile Card](https://fancy-readme-stats.vercel.app/api?username=maflend&theme=red_rain&footer=your@email.com&show_icons=true&title=Maflend&include_all_commits=true&show_icons=true)](https://github.com/maximjsx/fancy-readme-stats)
+[![Fancy Profile Card](https://fancy-readme-stats.vercel.app/api?username=maflend&theme=red_rain&footer=.net%developer&show_icons=true&title=Maflend&include_all_commits=true&show_icons=true)](https://github.com/maximjsx/fancy-readme-stats)
 
 ### Hi there 👋 When bad things happen, exceptions get thrown. When exceptions get thrown, people die.
 
